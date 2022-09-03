@@ -15,6 +15,7 @@ permalink: /index.html
 <rs-module-wrap id="rev_slider_2_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;">
 <rs-module id="rev_slider_2_1" style="" data-version="6.5.25">
 <rs-slides>
+
 <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="https://6am3r.github.io/images/h1-slider-1-background-img-100x50.jpg" data-anim="ms:600;" data-in="o:0;" data-out="a:false;">
 <img src="https://6am3r.github.io/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Main Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="https://6am3r.github.io/images/h1-slider-1-background-img.jpg" data-bg="p:right center;" data-panzoom="d:10000;ss:100;se:110;" data-no-retina>
 <rs-layer id="slider-2-slide-2-layer-1" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;yo:-15px,-58px,-82px,-79px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,65,56,40;l:84,70,60,44;fw:700;a:inherit,inherit,inherit,center;" data-dim="w:auto,auto,auto,273px;" data-frame_0="y:-30px;tp:600;" data-frame_1="tp:600;e:circ.out;st:300;sp:500;sR:300;" data-frame_999="o:0;tp:600;st:w;sR:3200;" style="z-index:5;font-family:'Rubik';text-transform:uppercase;">Onwards To Glory!
@@ -24,6 +25,7 @@ permalink: /index.html
 <span class="edgtf-btn-trapeze-right-side"></span>
 </a>
 </rs-layer> </rs-slide>
+
 <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="https://6am3r.github.io/images/h1-slider-2-background-img-100x50.jpg" data-anim="ms:600;" data-in="o:0;" data-out="a:false;">
 <img src="https://6am3r.github.io/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Main Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="https://6am3r.github.io/images/h1-slider-2-background-img.jpg" data-bg="p:left bottom;" data-panzoom="d:10000;ss:100;se:110;" data-no-retina>
 <rs-layer id="slider-2-slide-7-layer-1" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;yo:-15px,-58px,-82px,-79px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,65,56,40;l:84,70,60,44;fw:700;a:inherit,inherit,inherit,center;" data-dim="w:auto,auto,auto,273px;" data-frame_0="y:-30px;tp:600;" data-frame_1="tp:600;e:circ.out;st:300;sp:500;sR:300;" data-frame_999="o:0;tp:600;st:w;sR:3200;" style="z-index:5;font-family:'Rubik';text-transform:uppercase;">You Speak Of Justice?
@@ -33,6 +35,7 @@ permalink: /index.html
 <span class="edgtf-btn-trapeze-right-side"></span>
 </a>
 </rs-layer> </rs-slide>
+
 <rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="https://6am3r.github.io/images/h1-slider-3-background-img-100x50.jpg" data-anim="ms:600;" data-in="o:0;" data-out="a:false;">
 <img src="https://6am3r.github.io/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Main Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="https://6am3r.github.io/images/h1-slider-3-background-img.jpg" data-panzoom="d:10000;ss:100;se:110;" data-no-retina>
 <rs-layer id="slider-2-slide-8-layer-1" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;yo:-15px,-58px,-82px,-79px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,65,56,40;l:84,70,60,44;fw:700;a:inherit,inherit,inherit,center;" data-dim="w:auto,auto,auto,273px;" data-frame_0="y:-30px;tp:600;" data-frame_1="tp:600;e:circ.out;st:300;sp:500;sR:300;" data-frame_999="o:0;tp:600;st:w;sR:3200;" style="z-index:5;font-family:'Rubik';text-transform:uppercase;">Repel the Invaders!
@@ -42,6 +45,7 @@ permalink: /index.html
 <span class="edgtf-btn-trapeze-right-side"></span>
 </a>
 </rs-layer> </rs-slide>
+
 </rs-slides>
 </rs-module>
 <script>
@@ -131,7 +135,9 @@ permalink: /index.html
 AN <span class="edgtf-st-title-hightlight">OP</span> THEME JUST FOR GAMERS </h3>
 <div class="edgtf-st-separator">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
-<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
+     <polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
 </svg> </div>
 <p class="edgtf-st-text">
 Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio sed non. </p>
@@ -217,7 +223,9 @@ Maecenas tempus, tellus eget condimentum rhoncus, sem quam </p>
 Watch Live Streams </h3>
 <div class="edgtf-st-separator">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
-<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
+     <polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
 </svg> </div>
 </div>
 </div>
@@ -391,7 +399,11 @@ GAME EXPO: Where digital<br /> worlds meet real<br /> innovation </h4>
 Trending Matches </h3>
 <div class="edgtf-st-separator">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
-<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+
+     
+     <polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
+
 </svg> </div>
 </div>
 </div>
@@ -876,7 +888,9 @@ Tournaments </h6>
 Contact us </h4>
 <div class="edgtf-st-separator" style="margin-top: 5px">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
-<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
+     <polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
 </svg> </div>
 <p class="edgtf-st-text" style="margin-top: 26px">
 Proin gravida nibh vel velit auctor aliquet. Aenean velit sollicitudin, lorem quis bibendum auctor, nisi elit ipsum consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. </p>
@@ -961,7 +975,9 @@ Proin gravida nibh vel velit auctor aliquet. Aenean velit sollicitudin, lorem qu
 EXPLORE OUR MERCH </h3>
 <div class="edgtf-st-separator">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
-<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
+     <polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
+     
 </svg> </div>
 </div>
 </div>
