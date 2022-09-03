@@ -45,6 +45,11 @@ plugins:
 
 include:
  - _pages
+ - _includes
+ - _templates
+# The following items will not be processed, by default.
+
+
  
 
 
