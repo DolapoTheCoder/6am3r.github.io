@@ -138,7 +138,8 @@ AN <span class="edgtf-st-title-hightlight">OP</span> THEME JUST FOR GAMERS </h3>
      
      <polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 " />
      
-</svg> </div>
+</svg>
+</div>
 <p class="edgtf-st-text">
 Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio sed non. </p>
 </div>
