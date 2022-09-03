@@ -1,7 +1,3 @@
----
-layout: index2
-permalink: /index.html
----
 <div class="edgtf-full-width">
 <div class="edgtf-full-width-inner">
 <div class="edgtf-grid-row">
