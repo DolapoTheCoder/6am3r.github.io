@@ -1,0 +1,4 @@
+---
+layout: vcard
+permalink: /vcard/
+---
