@@ -55,5 +55,6 @@ exclude:
   - vendor/ruby/
 include:
   - _pages
+  - _shop
 theme:
   
