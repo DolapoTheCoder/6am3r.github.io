@@ -96,7 +96,7 @@ class Game{
 
 		const ambient = new THREE.AmbientLight( 0xaaaaaa );
         this.scene.add( ambient );
-
+f
         const light = new THREE.DirectionalLight( 0xaaaaaa );
         light.position.set( 30, 100, 40 );
         light.target.position.set( 0, 0, 0 );
@@ -544,7 +544,7 @@ class PlayerLocal extends Player{
 		super(game, model);
 		
 		const player = this;
-		const socket = io.connect("http://niksgames.com");
+		const socket = io.connect("https://af3a-85-199-235-252.eu.ngrok.io");
 		socket.on('setId', function(data){
 			player.id = data.id;
 		});
