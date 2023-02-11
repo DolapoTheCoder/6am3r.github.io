@@ -96,7 +96,7 @@ class Game{
 
 		const ambient = new THREE.AmbientLight( 0xaaaaaa );
         this.scene.add( ambient );
-f
+
         const light = new THREE.DirectionalLight( 0xaaaaaa );
         light.position.set( 30, 100, 40 );
         light.target.position.set( 0, 0, 0 );
