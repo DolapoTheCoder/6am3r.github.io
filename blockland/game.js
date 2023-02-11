@@ -544,7 +544,7 @@ class PlayerLocal extends Player{
 		super(game, model);
 		
 		const player = this;
-		const socket = io.connect("https://af3a-85-199-235-252.eu.ngrok.io");
+		const socket = io.connect("https://socekt1.onrender.com/");
 		socket.on('setId', function(data){
 			player.id = data.id;
 		});
