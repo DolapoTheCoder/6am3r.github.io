@@ -233,6 +233,11 @@ class Game{
 					window.location.href = 'https://game-page-phi.vercel.app/';
 					
 				  }
+				if (between(this.player.object.position.x, 2800, 3000.480350365193)) {
+					// something
+					window.location.href = 'https://market.sandbox.immutable.com/collections/0x4d5b883571cf9132ff7cf47bfe9247e04c1aa941?currencyFilter=0x1facdd0165489f373255a90304650e15481b2c85';
+					
+				  }
 			}
 		}
 		
