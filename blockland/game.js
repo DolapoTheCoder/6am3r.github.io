@@ -42,7 +42,9 @@ class Game{
         
 		const game = this;
 		this.anims = ['Walking', 'Walking Backwards', 'Turn', 'Running', 'Pointing', 'Talking', 'Pointing Gesture'];
-		
+		/*const between = (x, min, max) => {
+			return x >= min && x <= max;
+		  }*/
 		const options = {
 			assets:[
 				`${this.assetsPath}images/nx.jpg`,
@@ -129,7 +131,8 @@ class Game{
 		
 		this.joystick = new JoyStick({
 			onMove: this.playerControl,
-			game: this
+			game: this,
+			
 		});
 		
 		this.renderer = new THREE.WebGLRenderer( { antialias: true } );
@@ -209,6 +212,27 @@ class Game{
 				if (this.player.action != 'Turn') this.player.action = 'Turn';
 			}else if (this.player.action!="Idle"){
 				this.player.action = 'Idle';
+				console.log(this.player.object.position.x);
+				console.log(this.player.object.position.y);
+				/*if (between(this.player.object.position.x, 4595.946237546483, 4698.982189684274)) {
+					window.location.href = 'https://google.com/';
+				  }*/
+
+				  /*if (_.inRange(this.player.object.position.x, 4595.946237546483, 4698.982189684274)) {
+					// something
+					window.location.href = 'https://google.com/';
+				  }*/
+
+				  const between = (x, min, max) => {
+					return x >= min && x <= max;
+				  }
+				  // ...
+				 // const x = 0.002
+				  if (between(this.player.object.position.x, 4200, 4698.982189684274)) {
+					// something
+					window.location.href = 'https://game-page-phi.vercel.app/';
+					
+				  }
 			}
 		}
 		
